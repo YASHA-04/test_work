@@ -5,7 +5,7 @@ namespace OOAD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(8+7);
+            Console.WriteLine(10+6);
         }
     }
 }
