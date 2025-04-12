@@ -6,6 +6,7 @@ namespace OOAD
         static void Main(string[] args)
         {
             Console.WriteLine(10+6);
+            Console.Write("I am")
         }
     }
 }
